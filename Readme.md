@@ -13,4 +13,5 @@ Python developer | Self‑taught | Building tools for social good
 - **[CSV Cleaner V2](https://github.com/Tharana-Dev/CSV-Cleaner-Version-2.0)** – Clean messy CSV files with pandas (deduplicate, trim, fix dates, handle missing data).
 - **[YouTube Downloader](https://github.com/Tharana-Dev/Video-Downloader)** – Download videos/audio from YouTube, TikTok, etc., with scout report and progress bar.
 - **[Football Simulator](https://github.com/Tharana-Dev/football-simulator)** – Text‑based football manager game with tactics and leaderboard.
+- **[SQLite DataBase Manager].(https://github.com/Tharana-Dev/SQLite-Database-Manager)** - A simple Data Base Manager which allows basic functions. No SQL knowledge required.
   
