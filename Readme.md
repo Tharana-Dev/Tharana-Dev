@@ -14,6 +14,7 @@ Here are some of the tools and applications I’ve built:
 
 | Project | Description |
 |---------|-------------|
+| 🧮 [Professional Calculator](https://github.com/Tharana-Dev/professional-calculator) | Fully‑typed calculator with custom tokenizer, shunting‑yard parser, 91 automated tests, and strict mypy/black/bandit quality chain. |
 | 📚 [Library Manager](https://github.com/Tharana-Dev/library-management-system) | Terminal‑based system to manage books, patrons, borrowing, and returns – with due dates, overdue tracking, and JSON persistence. |
 | 📦 [Stock Manager](https://github.com/Tharana-Dev/stock-manager-python) | Inventory management with add/edit/remove, low‑stock alerts, and total value calculation. |
 | 🐇 [Rabbit Hunter Game](https://github.com/Tharana-Dev/rabbit-hunter-game) | Arcade game with Turtle graphics and Pygame – collect carrots, avoid traps, and outrun a hunter. |
