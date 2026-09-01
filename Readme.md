@@ -32,9 +32,6 @@ Here are some of the tools and applications I’ve built:
 - **Libraries/Frameworks:** pandas, Pillow, Tkinter, Turtle, Pygame, requests, BeautifulSoup, json, csv
 - **Tools:** Git, GitHub, IDLE, Jupyter Notebook
 
-## 📊 GitHub Stats
-
-[![Tharana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharana-Dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 What’s Next
 
